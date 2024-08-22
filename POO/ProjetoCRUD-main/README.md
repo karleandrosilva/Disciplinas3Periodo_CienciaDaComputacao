@@ -1,5 +1,7 @@
 # Projeto Sistema CRUD de Gerenciamento de Cardápio de Lanches
 
+Desenvolvido por Karleandro e Liriel (https://github.com/LirielG)
+
 Este projeto em Java simula um sistema de armazenamento de cardápio para uma lanchonete, permitindo a adição, remoção, listagem e atualização de lanches. Ele é executado diretamente no terminal e possui um menu interativo que facilita a operação.
 
 ## Funcionalidades

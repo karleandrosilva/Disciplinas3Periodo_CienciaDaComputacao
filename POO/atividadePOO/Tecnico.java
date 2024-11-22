@@ -1,4 +1,4 @@
-package atividade;
+package atividadePOO;
 
 public class Tecnico extends Colaborador {
     private String funcao;

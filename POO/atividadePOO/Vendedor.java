@@ -1,4 +1,4 @@
-package atividade;
+package atividadePOO;
 
 public class Vendedor extends Colaborador {
     private double comissao;
